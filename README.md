@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ctrapedo
+- 👀 I’m interested in Java, C, Python, and web design (though everyone knows that isn't real programming 😉)
+- 🌱 I’m currently learning Python, R, and using Python to build AI networks
